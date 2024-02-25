@@ -1,0 +1,98 @@
+﻿<Window x:Class="ProjektniZadatak1.Windows.PolygonWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjektniZadatak1.Windows"
+        mc:Ignorable="d"
+        Title="Draw Polygon" Height="450" Width="500">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="15"/>
+            <RowDefinition Height="52"/>
+            <RowDefinition Height="52"/>
+            <RowDefinition Height="52"/>
+            <RowDefinition Height="52"/>
+            <RowDefinition Height="52"/>
+            <RowDefinition Height="52"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="15"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="1.25*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Content="Border Thickness:" Grid.Row="1"
+               VerticalAlignment="Center" HorizontalAlignment="Left"
+                FontSize="16"
+               Margin="25,0,0,0"/>
+        <TextBox x:Name="txtBoxBorderThickness" Grid.Column="1" Grid.Row="1"
+                 VerticalAlignment="Center" HorizontalAlignment="Stretch"
+                 Margin="0,0,25,0" TextWrapping="Wrap"/>
+
+        <Label Content="Border Color:" Grid.Row="2"
+               VerticalAlignment="Center" HorizontalAlignment="Left"
+                FontSize="16"
+               Margin="25,0,0,0"/>
+        <ComboBox x:Name="cmbBoxBorderColor" Grid.Column="1" Grid.Row="2"
+                  VerticalAlignment="Center" HorizontalAlignment="Stretch"
+                  Margin="0,0,25,0"/>
+
+        <Label Content="Fill Color:" Grid.Row="3"
+               VerticalAlignment="Center" HorizontalAlignment="Left"
+                FontSize="16"
+               Margin="25,0,0,0"/>
+        <ComboBox x:Name="cmbBoxFillColor" Grid.Column="1" Grid.Row="3"
+                  VerticalAlignment="Center" HorizontalAlignment="Stretch"
+                  Margin="0,0,25,0"/>
+
+        <Label Content="Text:" Grid.Row="4"
+               VerticalAlignment="Center" HorizontalAlignment="Left"
+                FontSize="16"
+               Margin="25,0,0,0"/>
+        <TextBox x:Name="txtBoxText" Grid.Column="1" Grid.Row="4"
+                 VerticalAlignment="Center" HorizontalAlignment="Stretch"
+                 Margin="0,0,25,0" TextWrapping="Wrap"/>
+
+        <Label Content="Text Color:" Grid.Row="5"
+               VerticalAlignment="Center" HorizontalAlignment="Left"
+                FontSize="16"
+               Margin="25,0,0,0"/>
+        <ComboBox x:Name="cmbBoxTextColor" Grid.Column="1" Grid.Row="5"
+                  VerticalAlignment="Center" HorizontalAlignment="Stretch"
+                  Margin="0,0,25,0"/>
+
+        <Label Content="Transparent:" Grid.Row="6"
+               VerticalAlignment="Center" HorizontalAlignment="Left"
+                FontSize="16"
+               Margin="25,0,0,0"/>
+        <CheckBox x:Name="chkBoxTransparent" Grid.Column="1" Grid.Row="6"
+                  VerticalAlignment="Center" HorizontalAlignment="Center"
+                  Margin="0,0,25,0"/>
+
+        <Grid Grid.ColumnSpan="2" Grid.Row="7">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Button Content="Draw"
+                Grid.Column="1" Grid.Row="6"
+                Height="30" Width="80"
+                Click="Draw_Click"
+                FontSize="16"
+                x:Name="btnExecute"/>
+
+            <Button Content="Cancel"
+                Grid.Column="3"
+                Height="30" Width="80"
+                FontSize="16"
+                Click="Cancel_Click"/>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,296 @@
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Racunarska grafika\Projektni zadatak 1\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.AssemblyReference.cache
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Racunarska grafika\Projektni zadatak 1\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Racunarska grafika\Projektni zadatak 1\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\App.g.cs
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Racunarska grafika\Projektni zadatak 1\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\ProjektniZadatak1_MarkupCompile.cache
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Racunarska grafika\Projektni zadatak 1\ProjektniZadatak1\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.exe.config
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Racunarska grafika\Projektni zadatak 1\ProjektniZadatak1\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.exe
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Racunarska grafika\Projektni zadatak 1\ProjektniZadatak1\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.pdb
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Racunarska grafika\Projektni zadatak 1\ProjektniZadatak1\ProjektniZadatak1\bin\Debug\GMap.NET.Core.dll
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Racunarska grafika\Projektni zadatak 1\ProjektniZadatak1\ProjektniZadatak1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Racunarska grafika\Projektni zadatak 1\ProjektniZadatak1\ProjektniZadatak1\bin\Debug\GMap.NET.Core.xml
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Racunarska grafika\Projektni zadatak 1\ProjektniZadatak1\ProjektniZadatak1\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Racunarska grafika\Projektni zadatak 1\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\MainWindow.g.cs
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Racunarska grafika\Projektni zadatak 1\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\ProjektniZadatak1_MarkupCompile.lref
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Racunarska grafika\Projektni zadatak 1\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\MainWindow.baml
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Racunarska grafika\Projektni zadatak 1\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.g.resources
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Racunarska grafika\Projektni zadatak 1\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.Properties.Resources.resources
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Racunarska grafika\Projektni zadatak 1\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.GenerateResource.cache
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Racunarska grafika\Projektni zadatak 1\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.CoreCompileInputs.cache
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Racunarska grafika\Projektni zadatak 1\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.CopyComplete
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Racunarska grafika\Projektni zadatak 1\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.exe
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Racunarska grafika\Projektni zadatak 1\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.pdb
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Racunarska grafika\Projektni zadatak 1\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\DrawEllipse.g.cs
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Racunarska grafika\Projektni zadatak 1\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\DrawEllipse.baml
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Racunarska grafika\Projektni zadatak 1\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\DrawPolygon.g.cs
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Racunarska grafika\Projektni zadatak 1\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\DrawPolygon.baml
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Racunarska grafika\Projektni zadatak 1\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\AddText.g.cs
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Racunarska grafika\Projektni zadatak 1\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\AddText.baml
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Projekat\ProjektniZadatak1\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.exe.config
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Projekat\ProjektniZadatak1\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.exe
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Projekat\ProjektniZadatak1\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.pdb
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Projekat\ProjektniZadatak1\ProjektniZadatak1\bin\Debug\GMap.NET.Core.dll
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Projekat\ProjektniZadatak1\ProjektniZadatak1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Projekat\ProjektniZadatak1\ProjektniZadatak1\bin\Debug\GMap.NET.Core.xml
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Projekat\ProjektniZadatak1\ProjektniZadatak1\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Projekat\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.AssemblyReference.cache
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Projekat\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Projekat\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\AddText.g.cs
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Projekat\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\DrawEllipse.g.cs
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Projekat\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\DrawPolygon.g.cs
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Projekat\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\MainWindow.g.cs
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Projekat\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\App.g.cs
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Projekat\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\ProjektniZadatak1_MarkupCompile.cache
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Projekat\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\ProjektniZadatak1_MarkupCompile.lref
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Projekat\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\AddText.baml
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Projekat\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\DrawEllipse.baml
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Projekat\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\DrawPolygon.baml
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Projekat\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\MainWindow.baml
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Projekat\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.g.resources
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Projekat\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.Properties.Resources.resources
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Projekat\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.GenerateResource.cache
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Projekat\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.CoreCompileInputs.cache
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Projekat\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.CopyComplete
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Projekat\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.exe
+C:\Users\ljubo\OneDrive\Documents\Ljubo\Fakultet\8. semestar\Projekat\ProjektniZadatak1\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.pdb
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.exe.config
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.exe
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.pdb
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy\ProjektniZadatak1\bin\Debug\GMap.NET.Core.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy\ProjektniZadatak1\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy\ProjektniZadatak1\bin\Debug\GMap.NET.Core.xml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy\ProjektniZadatak1\bin\Debug\GMap.NET.WindowsForms.xml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.AssemblyReference.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.SuggestedBindingRedirects.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy\ProjektniZadatak1\obj\Debug\AddText.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy\ProjektniZadatak1\obj\Debug\DrawEllipse.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy\ProjektniZadatak1\obj\Debug\DrawPolygon.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy\ProjektniZadatak1\obj\Debug\MainWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy\ProjektniZadatak1\obj\Debug\App.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1_MarkupCompile.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1_MarkupCompile.lref
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy\ProjektniZadatak1\obj\Debug\AddText.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy\ProjektniZadatak1\obj\Debug\DrawEllipse.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy\ProjektniZadatak1\obj\Debug\DrawPolygon.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy\ProjektniZadatak1\obj\Debug\MainWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.g.resources
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.Properties.Resources.resources
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.GenerateResource.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.CoreCompileInputs.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.CopyComplete
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.exe
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.pdb
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.AssemblyReference.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.SuggestedBindingRedirects.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.exe
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.pdb
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy - Copy\ProjektniZadatak1\obj\Debug\MainWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy - Copy\ProjektniZadatak1\obj\Debug\Windows\EllipseWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy - Copy\ProjektniZadatak1\obj\Debug\Windows\PolygonWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy - Copy\ProjektniZadatak1\obj\Debug\Windows\TextWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy - Copy\ProjektniZadatak1\obj\Debug\App.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1_MarkupCompile.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1_MarkupCompile.lref
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy - Copy\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.exe.config
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy - Copy\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.exe
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy - Copy\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.pdb
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy - Copy\ProjektniZadatak1\bin\Debug\GMap.NET.Core.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy - Copy\ProjektniZadatak1\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy - Copy\ProjektniZadatak1\bin\Debug\GMap.NET.Core.xml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy - Copy\ProjektniZadatak1\bin\Debug\GMap.NET.WindowsForms.xml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy - Copy\ProjektniZadatak1\obj\Debug\MainWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy - Copy\ProjektniZadatak1\obj\Debug\Windows\EllipseWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy - Copy\ProjektniZadatak1\obj\Debug\Windows\PolygonWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy - Copy\ProjektniZadatak1\obj\Debug\Windows\TextWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.g.resources
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.Properties.Resources.resources
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.GenerateResource.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.CoreCompileInputs.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\ProjektniZadatak1 - Copy - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.CopyComplete
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\Ana - Projektni Zadatak\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.exe.config
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\Ana - Projektni Zadatak\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.exe
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\Ana - Projektni Zadatak\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.pdb
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\Ana - Projektni Zadatak\ProjektniZadatak1\bin\Debug\GMap.NET.Core.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\Ana - Projektni Zadatak\ProjektniZadatak1\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\Ana - Projektni Zadatak\ProjektniZadatak1\bin\Debug\GMap.NET.Core.xml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\Ana - Projektni Zadatak\ProjektniZadatak1\bin\Debug\GMap.NET.WindowsForms.xml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\Ana - Projektni Zadatak\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.AssemblyReference.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\Ana - Projektni Zadatak\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.SuggestedBindingRedirects.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\Ana - Projektni Zadatak\ProjektniZadatak1\obj\Debug\MainWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\Ana - Projektni Zadatak\ProjektniZadatak1\obj\Debug\Windows\EllipseWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\Ana - Projektni Zadatak\ProjektniZadatak1\obj\Debug\Windows\PolygonWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\Ana - Projektni Zadatak\ProjektniZadatak1\obj\Debug\Windows\TextWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\Ana - Projektni Zadatak\ProjektniZadatak1\obj\Debug\App.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\Ana - Projektni Zadatak\ProjektniZadatak1\obj\Debug\ProjektniZadatak1_MarkupCompile.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\Ana - Projektni Zadatak\ProjektniZadatak1\obj\Debug\ProjektniZadatak1_MarkupCompile.lref
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\Ana - Projektni Zadatak\ProjektniZadatak1\obj\Debug\MainWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\Ana - Projektni Zadatak\ProjektniZadatak1\obj\Debug\Windows\EllipseWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\Ana - Projektni Zadatak\ProjektniZadatak1\obj\Debug\Windows\PolygonWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\Ana - Projektni Zadatak\ProjektniZadatak1\obj\Debug\Windows\TextWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\Ana - Projektni Zadatak\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.g.resources
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\Ana - Projektni Zadatak\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.Properties.Resources.resources
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\Ana - Projektni Zadatak\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.GenerateResource.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\Ana - Projektni Zadatak\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.CoreCompileInputs.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\Ana - Projektni Zadatak\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.CopyComplete
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\Ana - Projektni Zadatak\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.exe
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Interakcija\Ana - Projektni Zadatak\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.pdb
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\TEMPLATE - Copy\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.exe.config
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\TEMPLATE - Copy\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.exe
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\TEMPLATE - Copy\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.pdb
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\TEMPLATE - Copy\ProjektniZadatak1\bin\Debug\GMap.NET.Core.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\TEMPLATE - Copy\ProjektniZadatak1\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\TEMPLATE - Copy\ProjektniZadatak1\bin\Debug\GMap.NET.Core.xml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\TEMPLATE - Copy\ProjektniZadatak1\bin\Debug\GMap.NET.WindowsForms.xml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\TEMPLATE - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.AssemblyReference.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\TEMPLATE - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.SuggestedBindingRedirects.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\TEMPLATE - Copy\ProjektniZadatak1\obj\Debug\MainWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\TEMPLATE - Copy\ProjektniZadatak1\obj\Debug\Windows\EllipseWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\TEMPLATE - Copy\ProjektniZadatak1\obj\Debug\Windows\PolygonWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\TEMPLATE - Copy\ProjektniZadatak1\obj\Debug\Windows\TextWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\TEMPLATE - Copy\ProjektniZadatak1\obj\Debug\App.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\TEMPLATE - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1_MarkupCompile.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\TEMPLATE - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1_MarkupCompile.lref
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\TEMPLATE - Copy\ProjektniZadatak1\obj\Debug\MainWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\TEMPLATE - Copy\ProjektniZadatak1\obj\Debug\Windows\EllipseWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\TEMPLATE - Copy\ProjektniZadatak1\obj\Debug\Windows\PolygonWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\TEMPLATE - Copy\ProjektniZadatak1\obj\Debug\Windows\TextWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\TEMPLATE - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.g.resources
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\TEMPLATE - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.Properties.Resources.resources
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\TEMPLATE - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.GenerateResource.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\TEMPLATE - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.CoreCompileInputs.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\TEMPLATE - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.CopyComplete
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\TEMPLATE - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.exe
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\TEMPLATE - Copy\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.pdb
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra i Djordje\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.exe.config
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra i Djordje\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.exe
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra i Djordje\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.pdb
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra i Djordje\ProjektniZadatak1\bin\Debug\GMap.NET.Core.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra i Djordje\ProjektniZadatak1\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra i Djordje\ProjektniZadatak1\bin\Debug\GMap.NET.Core.xml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra i Djordje\ProjektniZadatak1\bin\Debug\GMap.NET.WindowsForms.xml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra i Djordje\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.AssemblyReference.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra i Djordje\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.SuggestedBindingRedirects.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra i Djordje\ProjektniZadatak1\obj\Debug\MainWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra i Djordje\ProjektniZadatak1\obj\Debug\Windows\EllipseWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra i Djordje\ProjektniZadatak1\obj\Debug\Windows\PolygonWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra i Djordje\ProjektniZadatak1\obj\Debug\Windows\TextWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra i Djordje\ProjektniZadatak1\obj\Debug\App.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra i Djordje\ProjektniZadatak1\obj\Debug\ProjektniZadatak1_MarkupCompile.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra i Djordje\ProjektniZadatak1\obj\Debug\ProjektniZadatak1_MarkupCompile.lref
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra i Djordje\ProjektniZadatak1\obj\Debug\MainWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra i Djordje\ProjektniZadatak1\obj\Debug\Windows\EllipseWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra i Djordje\ProjektniZadatak1\obj\Debug\Windows\PolygonWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra i Djordje\ProjektniZadatak1\obj\Debug\Windows\TextWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra i Djordje\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.g.resources
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra i Djordje\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.Properties.Resources.resources
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra i Djordje\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.GenerateResource.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra i Djordje\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.CoreCompileInputs.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra i Djordje\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.CopyComplete
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra i Djordje\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.exe
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra i Djordje\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.pdb
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Dusan\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.exe.config
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Dusan\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.exe
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Dusan\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.pdb
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Dusan\ProjektniZadatak1\bin\Debug\GMap.NET.Core.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Dusan\ProjektniZadatak1\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Dusan\ProjektniZadatak1\bin\Debug\GMap.NET.Core.xml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Dusan\ProjektniZadatak1\bin\Debug\GMap.NET.WindowsForms.xml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Dusan\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.AssemblyReference.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Dusan\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.SuggestedBindingRedirects.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Dusan\ProjektniZadatak1\obj\Debug\MainWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Dusan\ProjektniZadatak1\obj\Debug\Windows\EllipseWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Dusan\ProjektniZadatak1\obj\Debug\Windows\PolygonWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Dusan\ProjektniZadatak1\obj\Debug\Windows\TextWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Dusan\ProjektniZadatak1\obj\Debug\App.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Dusan\ProjektniZadatak1\obj\Debug\ProjektniZadatak1_MarkupCompile.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Dusan\ProjektniZadatak1\obj\Debug\ProjektniZadatak1_MarkupCompile.lref
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Dusan\ProjektniZadatak1\obj\Debug\MainWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Dusan\ProjektniZadatak1\obj\Debug\Windows\EllipseWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Dusan\ProjektniZadatak1\obj\Debug\Windows\PolygonWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Dusan\ProjektniZadatak1\obj\Debug\Windows\TextWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Dusan\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.g.resources
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Dusan\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.Properties.Resources.resources
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Dusan\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.GenerateResource.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Dusan\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.CoreCompileInputs.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Dusan\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.CopyComplete
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Dusan\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.exe
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Dusan\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.pdb
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra New\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.exe.config
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra New\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.exe
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra New\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.pdb
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra New\ProjektniZadatak1\bin\Debug\GMap.NET.Core.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra New\ProjektniZadatak1\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra New\ProjektniZadatak1\bin\Debug\GMap.NET.Core.xml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra New\ProjektniZadatak1\bin\Debug\GMap.NET.WindowsForms.xml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra New\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.AssemblyReference.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra New\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.SuggestedBindingRedirects.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra New\ProjektniZadatak1\obj\Debug\MainWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra New\ProjektniZadatak1\obj\Debug\Windows\EllipseWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra New\ProjektniZadatak1\obj\Debug\Windows\PolygonWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra New\ProjektniZadatak1\obj\Debug\Windows\TextWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra New\ProjektniZadatak1\obj\Debug\App.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra New\ProjektniZadatak1\obj\Debug\ProjektniZadatak1_MarkupCompile.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra New\ProjektniZadatak1\obj\Debug\ProjektniZadatak1_MarkupCompile.lref
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra New\ProjektniZadatak1\obj\Debug\MainWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra New\ProjektniZadatak1\obj\Debug\Windows\EllipseWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra New\ProjektniZadatak1\obj\Debug\Windows\PolygonWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra New\ProjektniZadatak1\obj\Debug\Windows\TextWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra New\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.g.resources
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra New\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.Properties.Resources.resources
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra New\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.GenerateResource.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra New\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.CoreCompileInputs.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra New\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.CopyComplete
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra New\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.exe
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Sotra New\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.pdb
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Serdar\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.exe.config
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Serdar\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.exe
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Serdar\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.pdb
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Serdar\ProjektniZadatak1\bin\Debug\GMap.NET.Core.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Serdar\ProjektniZadatak1\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Serdar\ProjektniZadatak1\bin\Debug\GMap.NET.Core.xml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Serdar\ProjektniZadatak1\bin\Debug\GMap.NET.WindowsForms.xml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Serdar\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.AssemblyReference.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Serdar\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.SuggestedBindingRedirects.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Serdar\ProjektniZadatak1\obj\Debug\MainWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Serdar\ProjektniZadatak1\obj\Debug\Windows\EllipseWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Serdar\ProjektniZadatak1\obj\Debug\Windows\PolygonWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Serdar\ProjektniZadatak1\obj\Debug\Windows\TextWindow.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Serdar\ProjektniZadatak1\obj\Debug\App.g.cs
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Serdar\ProjektniZadatak1\obj\Debug\ProjektniZadatak1_MarkupCompile.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Serdar\ProjektniZadatak1\obj\Debug\ProjektniZadatak1_MarkupCompile.lref
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Serdar\ProjektniZadatak1\obj\Debug\MainWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Serdar\ProjektniZadatak1\obj\Debug\Windows\EllipseWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Serdar\ProjektniZadatak1\obj\Debug\Windows\PolygonWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Serdar\ProjektniZadatak1\obj\Debug\Windows\TextWindow.baml
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Serdar\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.g.resources
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Serdar\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.Properties.Resources.resources
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Serdar\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.GenerateResource.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Serdar\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.CoreCompileInputs.cache
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Serdar\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.CopyComplete
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Serdar\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.exe
+D:\Coek\FTN\8. Semestar\Projekat\Grafika\Vizuelizacija\URADJENI\Serdar\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.pdb
+C:\Users\nidza\OneDrive\Desktop\Serdar\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.exe.config
+C:\Users\nidza\OneDrive\Desktop\Serdar\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.exe
+C:\Users\nidza\OneDrive\Desktop\Serdar\ProjektniZadatak1\bin\Debug\ProjektniZadatak1.pdb
+C:\Users\nidza\OneDrive\Desktop\Serdar\ProjektniZadatak1\bin\Debug\GMap.NET.Core.dll
+C:\Users\nidza\OneDrive\Desktop\Serdar\ProjektniZadatak1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\nidza\OneDrive\Desktop\Serdar\ProjektniZadatak1\bin\Debug\GMap.NET.Core.xml
+C:\Users\nidza\OneDrive\Desktop\Serdar\ProjektniZadatak1\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\nidza\OneDrive\Desktop\Serdar\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.AssemblyReference.cache
+C:\Users\nidza\OneDrive\Desktop\Serdar\ProjektniZadatak1\obj\Debug\MainWindow.g.cs
+C:\Users\nidza\OneDrive\Desktop\Serdar\ProjektniZadatak1\obj\Debug\Windows\EllipseWindow.g.cs
+C:\Users\nidza\OneDrive\Desktop\Serdar\ProjektniZadatak1\obj\Debug\Windows\PolygonWindow.g.cs
+C:\Users\nidza\OneDrive\Desktop\Serdar\ProjektniZadatak1\obj\Debug\Windows\TextWindow.g.cs
+C:\Users\nidza\OneDrive\Desktop\Serdar\ProjektniZadatak1\obj\Debug\App.g.cs
+C:\Users\nidza\OneDrive\Desktop\Serdar\ProjektniZadatak1\obj\Debug\ProjektniZadatak1_MarkupCompile.cache
+C:\Users\nidza\OneDrive\Desktop\Serdar\ProjektniZadatak1\obj\Debug\ProjektniZadatak1_MarkupCompile.lref
+C:\Users\nidza\OneDrive\Desktop\Serdar\ProjektniZadatak1\obj\Debug\MainWindow.baml
+C:\Users\nidza\OneDrive\Desktop\Serdar\ProjektniZadatak1\obj\Debug\Windows\EllipseWindow.baml
+C:\Users\nidza\OneDrive\Desktop\Serdar\ProjektniZadatak1\obj\Debug\Windows\PolygonWindow.baml
+C:\Users\nidza\OneDrive\Desktop\Serdar\ProjektniZadatak1\obj\Debug\Windows\TextWindow.baml
+C:\Users\nidza\OneDrive\Desktop\Serdar\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.g.resources
+C:\Users\nidza\OneDrive\Desktop\Serdar\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.Properties.Resources.resources
+C:\Users\nidza\OneDrive\Desktop\Serdar\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.GenerateResource.cache
+C:\Users\nidza\OneDrive\Desktop\Serdar\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.CoreCompileInputs.cache
+C:\Users\nidza\OneDrive\Desktop\Serdar\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.csproj.CopyComplete
+C:\Users\nidza\OneDrive\Desktop\Serdar\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.exe
+C:\Users\nidza\OneDrive\Desktop\Serdar\ProjektniZadatak1\obj\Debug\ProjektniZadatak1.pdb
